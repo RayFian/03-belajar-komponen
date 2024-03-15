@@ -1,9 +1,9 @@
-import MyProfile from "@/components/myprofile";
+import MyProfilev2 from "@/components/myprofileV2";
 
 export default function Home() {
   return (
     <section>
-      <MyProfile />
+      <MyProfilev2 />
     </section>
   );
 }
